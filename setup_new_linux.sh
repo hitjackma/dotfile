@@ -38,3 +38,4 @@ cp ./.oh-my-zsh/themes/robbyrussell.zsh-theme ~/.oh-my-zsh/themes/robbyrussell.z
 source ~/.zshrc
 
 # 4. setup vim 
+cp .vimrc ~/.vimrc
