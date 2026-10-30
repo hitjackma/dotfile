@@ -1,0 +1,20 @@
+[
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-r": null
+    }
+  },
+  {
+    "context": "Workspace",
+    "bindings": {
+      "cmd-r": "buffer_search::DeployReplace"
+    }
+  },
+  {
+    "context": "buffer_search_deployed || BufferSearchBar",
+    "bindings": {
+      "cmd-r": "buffer_search::Dismiss"
+    }
+  }
+]
